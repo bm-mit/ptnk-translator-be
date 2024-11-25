@@ -29,8 +29,11 @@
     "google-tts-api": "^2.0.2",
     "http-proxy-agent": "^7.0.2",
     "number-to-text": "^0.3.9",
+    "number-to-text-vietnamese": "^1.1.7",
+    "read-vietnamese-number": "^2.1.4",
     "reflect-metadata": "^0.2.0",
-    "rxjs": "^7.8.1"
+    "rxjs": "^7.8.1",
+    "vn-num2words": "^1.0.4"
   },
   "devDependencies": {
     "@nestjs/cli": "^10.0.0",
